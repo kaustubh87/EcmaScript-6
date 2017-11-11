@@ -1,5 +1,4 @@
-var fn = () => {
-    console.log('Hello');
-};
+var fn = () => console.log('Hello');
+
 
 fn();
